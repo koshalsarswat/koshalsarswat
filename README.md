@@ -6,7 +6,8 @@
 - 👯 **Looking to collaborate on:** Smart Energy Projects, IoT Solutions, Embedded System Designs
 - 🤔 **Seeking opportunities in:** Campus Placements, Technical Internships, Power Sector Companies
 - 💬 **Ask me about:** Power Systems, Control Engineering, Arduino Projects, Technical Interviews
--⚙️ Fun fact: My favorite sound? A relay clicking at just the right time.
+- ⚙️ Fun fact: My favorite sound? A relay clicking at just the right time.
+
 
 
 ## 🌐 Socials:
